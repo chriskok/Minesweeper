@@ -31,7 +31,7 @@ Classic minesweeper as a solo Unity3D programming project
 
 ## License & copyright
 
-© Christopher Kok Kye Shyang, Purdue University 
+© Christopher Kok Kye Shyang
 
 ---
 
